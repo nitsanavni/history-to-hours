@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nitsanavni/history-to-hours/issues"
   },
-  "homepage": "https://github.com/nitsanavni/history-to-hours#readme"
+  "homepage": "https://github.com/nitsanavni/history-to-hours#readme",
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  }
 }
